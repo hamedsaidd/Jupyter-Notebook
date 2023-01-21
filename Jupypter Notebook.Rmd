@@ -1,0 +1,31 @@
+---
+title: "Jupyter Project"
+author: "Hamed Diomande"
+date: '2023-01-21'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# My Jupyter Notebook on IBM Watson Studio
+
+**Hamed DIOMANDE**
+
+I graduated with a master in Mathematics and Statistics from the University of Ottawa and in the long term I want to become a data analyst in the financial industry like a banks and insurances or in businesses that provides services for the well being of others like Uber, Netflix, Amazon, etc.
+
+*I am interested in data science because I love the process of translating data into a story. Like using storytelling to generate insight and from these insights being able to make strategic choices to resolve problems or provide values to a company or an institution*
+
+### The following code will generate 3 random numbers from a uniform distribution of range [5,10 ]
+
+```{r}
+runif(3, min=5, max=10)
+```
+Information on me:
+
+* Family Name: Diomande 
+- First name: Hamed
++ Age: 24
